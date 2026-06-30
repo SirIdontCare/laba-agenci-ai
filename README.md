@@ -11,8 +11,8 @@ Przez 12 tygodni budujesz jednego agenta AI od prostego chatbota do w pełni aut
 ## Szybki start
 
 ```bash
-# 1. Sklonuj repo
-git clone https://github.com/TWOJ-USER/laba-agenci-ai.git
+# 1. Sklonuj repo (lub pobierz ZIP z GitHub → Code → Download ZIP)
+git clone <LINK_DO_TEGO_REPO>
 cd laba-agenci-ai
 
 # 2. Utwórz virtual environment
