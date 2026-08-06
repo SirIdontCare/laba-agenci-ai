@@ -31,10 +31,12 @@ Do ukończenia kursu będziesz potrzebować tylko kilku darmowych narzędzi:
 
 4. **Konto GitHub** (Platforma dla programistów)
    - [Załóż darmowe konto GitHub](https://github.com/signup) 
-   - ⚠️ **Ważne:** Konto to będzie wymagane **dopiero od Lekcji 11**. Jeśli robisz wcześniejsze warsztaty, możesz ten krok na razie całkowicie pominąć!
+   - ⚠️ **Ważne:** Konto będzie potrzebne **od Lekcji 7**, kiedy wrzucamy kod do internetu (deploy na Vercel). Jeśli robisz wcześniejsze warsztaty, możesz ten krok na razie pominąć!
 
 > 🛑 **Czego NIE potrzebujesz:**  
-> Nie musisz znać **Pythona**, ani ręcznie obsługiwać **Gita**. Do niczego Cię nie zmuszamy – wszystko opiera się na prostych rozmowach z AI!
+> Nie musisz znać **Pythona** ani umieć programować. Wszystko opiera się na prostych rozmowach z AI!
+>
+> 💡 **Jedyny wyjątek:** od Lekcji 7 poznasz kilka podstawowych komend **Gita** (`git add`, `git commit`, `git push`) — to trzy linijki, które kopiujesz i wklejasz, żeby wysłać kod na GitHuba. Prowadzący pokazuje to krok po kroku.
 
 ## Struktura
 
@@ -63,6 +65,55 @@ lekcja_04/          ← Pętla rozumowania (ReAct)
   W2_BRIEFING.md     - Asystent podróży (prawdziwe dane)
   W3_ERROR_HANDLING.md - Obsługa błędów i limity bezpieczeństwa
   W4_DASHBOARD.md    - Dashboard z live data (pogoda, waluty, święta)
+
+lekcja_05/          ← Agent pamięta (Supabase)
+  W1_SUPABASE_SETUP.md - Podłącz bazę danych
+  W2_HISTORIA.md       - Trwała historia rozmów
+  W3_IMIE.md           - Agent pamięta kim jesteś
+  W4_LISTA_ROZMOW.md   - Lista i przełączanie rozmów
+
+lekcja_06/          ← Baza wiedzy (RAG)
+  W0_KLUCZ_API.md    - Klucz API do embeddingów
+  W1_PGVECTOR.md     - Wektory w bazie (pgvector)
+  W2_UPLOAD.md       - Wgrywanie dokumentów
+  W3_SEARCH.md       - Agent odpowiada z Twoich plików
+  W4_CYTOWANIE.md    - Cytowanie źródeł
+
+lekcja_07/          ← Agent w internecie
+  W1_PREDEPLOY.md         - GitHub i pierwszy commit
+  W2_DEPLOY.md            - Deploy na Vercel (publiczny link)
+  W3_LOGIN_PRYWATNOSC.md  - Logowanie i prywatne rozmowy
+  W4_PERSONALIZACJA.md    - Agent wita po imieniu
+
+lekcja_08/          ← Misje biznesowe
+  W1_EMAIL_TRIAGE.md      - Sortowanie maili
+  W2_RAPORTY.md           - Generowanie raportów
+  W3_KONKURENCJA.md       - Analiza konkurencji
+  W4_WLASNY_SCENARIUSZ.md - Twój własny scenariusz
+
+lekcja_09/          ← Automatyka (agent pracuje sam)
+  W1_MORNING_BRIEFING.md - Poranny briefing
+  W2_CRON_JOB.md         - Zadania cykliczne
+  W3_WEBHOOK.md          - Reakcja na zdarzenia
+  W4_BRIEFINGS_PAGE.md   - Strona z briefingami
+
+lekcja_10/          ← Bezpieczeństwo
+  W1_RED_TEAMING.md          - Spróbuj złamać agenta
+  W2_OBRONA.md               - Obrona wielowarstwowa
+  W3_BUDZET.md               - Budżet i limit tokenów
+  W4_PANEL_BEZPIECZENSTWA.md - Panel /admin/security
+
+lekcja_11/          ← Agent jest produktem
+  W1_LANDING_PAGE.md    - Landing page
+  W2_DASHBOARD_UZYCIA.md - Dashboard statystyk
+  W3_CUSTOM_DOMAIN.md   - Własna domena
+  W4_POLISH.md          - og:image, favicon, PWA, motyw
+
+lekcja_12/          ← Pokaż co zbudowałeś
+  W1_PREZENTACJA.md       - Prezentacja agenta
+  W2_FEEDBACK_WARSZTATY.md - Wzajemne testowanie i feedback
+  W3_QUICK_FIX.md         - Napraw 1 bug na żywo
+  W4_CO_DALEJ.md          - Trendy, biznes, ścieżki rozwoju po kursie
 ```
 
 ## Jak otworzyć terminal (konsolę)
@@ -114,4 +165,5 @@ Kiedy AI wygeneruje dla Ciebie kod projektu, musisz go "odpalić", by móc zobac
 
 ## Przydatne
 
+- [🧰 Narzędzia i linki (podstawowy + zaawansowany)](NARZEDZIA.md) - komplet: Node, VS Code, Git, Python, Supabase, Neon, Vercel, asystenci AI
 - [💰 Jak oszczędzać tokeny w AI Coding Assistantach](OSZCZEDZANIE_TOKENOW.md) - poradnik dla Claude Code, Codex i Antigravity
