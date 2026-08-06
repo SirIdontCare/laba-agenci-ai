@@ -167,3 +167,11 @@ Kiedy AI wygeneruje dla Ciebie kod projektu, musisz go "odpalić", by móc zobac
 
 - [🧰 Narzędzia i linki (podstawowy + zaawansowany)](NARZEDZIA.md) - komplet: Node, VS Code, Git, Python, Supabase, Neon, Vercel, asystenci AI
 - [💰 Jak oszczędzać tokeny w AI Coding Assistantach](OSZCZEDZANIE_TOKENOW.md) - poradnik dla Claude Code, Codex i Antigravity
+
+## 🔵 Co dalej po kursie?
+
+Ten kurs to część podstawowa — AI pisze kod za Ciebie. Jeśli chcesz zajrzeć pod maskę (VS Code, git, Python, własny backend), materiały grupy zaawansowanej znajdziesz tutaj:
+
+**→ [grupa-zaawansowana](https://github.com/SirIdontCare/grupa-zaawansowana)**
+
+Pełną mapę drogową po kursie (trendy, budowanie produktu, gdzie pytać) masz w [`lekcja_12/W4_CO_DALEJ.md`](lekcja_12/W4_CO_DALEJ.md).

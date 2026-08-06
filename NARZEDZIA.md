@@ -63,6 +63,7 @@ Instaluj / zakładaj konto **tylko to, czego potrzebujesz na swoim etapie** — 
 - **Zaczynasz kurs?** → Node.js + klucz z Google AI Studio + jeden asystent AI. Tyle wystarczy na Lekcje 1–4.
 - **Lekcje 5–7?** → dochodzi Supabase (baza), a od L07 GitHub i Vercel (deploy).
 - **Wchodzisz w Advanced Track?** → VS Code (wymóg) + Git + wtyczka AI. GitHub od Modułu 1.
+  Materiały grupy zaawansowanej: https://github.com/SirIdontCare/grupa-zaawansowana
 - **Bonus (trzeci agent)?** → Python + FastAPI, opcjonalnie Neon jako baza.
 
 > Wszystkie narzędzia mają **darmowe plany / są open source**. Na kurs nie potrzebujesz karty kredytowej ani płatnych subskrypcji.

@@ -135,6 +135,9 @@ tylko zlecać, a zaczynasz rozumieć i poprawiać to, co dostajesz.
 
 Dla kogo: jeśli przez ostatnie 12 lekcji łapałeś się na myśli *„ale co ten kod właściwie robi?"* — to jest odpowiedź na to pytanie.
 
+**📦 Materiały grupy zaawansowanej:**
+> https://github.com/SirIdontCare/grupa-zaawansowana
+
 Czego będziesz potrzebować (pełna lista w pliku `NARZEDZIA.md` w tym repo):
 - VS Code — tam już wymóg, nie opcja: https://code.visualstudio.com
 - Git: https://git-scm.com/downloads
