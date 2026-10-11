@@ -1,0 +1,14 @@
+{
+  "type":"object",
+  "properties": {
+    "message_id":{"type":"string","minLength":1,"maxLength":100},
+    "category":{"type":"string","enum":["sales","support","billing","unknown"]},
+    "priority":{"type":"string","enum":["normal","high"]},
+    "draft":{"type":"string","maxLength":4000},
+    "needs_review":{"type":"boolean"},
+    "missing_data":{"type":"array","maxItems":10,"items":{"type":"string","minLength":1,"maxLength":200}},
+    "sources":{"type":"array","maxItems":10,"items":{"type":"string","minLength":1,"maxLength":200}}
+  },
+  "required":["message_id","category","priority","draft","needs_review","missing_data","sources"],
+  "additionalProperties":false
+}
